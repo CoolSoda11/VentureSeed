@@ -1,11 +1,11 @@
 ---
-layout: page
-title: Introduction
+layout: home
+title: About
 ---
 
 # VentureSeed - AI-Powered Scenario-Based Entrepreneurship Practice Platform
 
-Basic Info: 
+## Basic Info: 
 
 - Course Name: Experience Design and Artificial Intelligence (XDAI)
 - Instructor: Safinah Ali
