@@ -1,6 +1,7 @@
 ---
 layout: home
 title: About
+nav_order: 1
 ---
 
 # VentureSeed - AI-Powered Scenario-Based Entrepreneurship Practice Platform
