@@ -31,3 +31,6 @@ nav_order: 3
 
 ## Design Process
 <img width="2144" alt="Design Process" src="https://github.com/user-attachments/assets/7c00bbf8-7ac8-4e2c-9060-c295db6139b6" />
+
+<img width="1764" alt="Group 2310" src="https://github.com/user-attachments/assets/d16e8edf-4685-49c9-87c4-f46ac0878454" />
+
