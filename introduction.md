@@ -56,3 +56,15 @@ Based on the student’s chosen business field, AI can facilitate immersive entr
 
 ## User Journey Map
 ![User Journey Map](https://github.com/user-attachments/assets/cbd83a94-b79c-4d2b-8ceb-9b55d5de4a92)
+
+## Reference
+
+Bell, R., & Bell, H. (2023). Entrepreneurship education in the era of generative artificial intelligence. Entrepreneurship Education, 6(3), 229-244.
+
+Huang, R., Spector, J. M., & Yang, J. (2007). Artificial intelligence in education: Challenges and opportunities for sustainable development. Educational Technology Research and Development, 55(6), 675-689.
+
+Iwu, C. G., Muresherwa, G., Nchu, R., & Eresia-Eke, C. E. (2020). University students’ perception of entrepreneurship as a career option. Academia, (20-21), 177-201.
+
+Seibert, S. E., Nielsen, J. D., & Kraimer, M. L. (2021). Awakening the entrepreneur within: Entrepreneurial identity aspiration and the role of displacing work events. Journal of Applied Psychology, 106(8), 1224.
+
+Zheng, K., Shen, Z., Chen, Z., Che, C., & Zhu, H. (2024). Application of AI-empowered scenario-based simulation teaching mode in cardiovascular disease education. BMC Medical Education, 24(1), 1003.
