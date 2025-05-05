@@ -6,6 +6,9 @@ nav_order: 1
 
 # VentureSeed - AI-Powered Scenario-Based Entrepreneurship Practice Platform
 
+![Frame 23002](https://github.com/user-attachments/assets/d2b684bb-98c5-4017-90b4-032fa00df4d5)
+
+
 ## Basic Info: 
 
 - Course Name: Experience Design and Artificial Intelligence (XDAI)
