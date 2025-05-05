@@ -23,11 +23,7 @@ nav_order: 3
 
 **Functional Prototype:**
 
-[Part1](https://coolsoda11.github.io/monopoly/)
-
-[Part2](https://mmsxy.github.io/qinyu-lin/)
-
-[Part3](https://beining-sun.github.io/gemini-chat-frontend-v2/)
+[Part1](https://coolsoda11.github.io/monopoly/)&ensp[Part2](https://mmsxy.github.io/qinyu-lin/)&ensp[Part3](https://beining-sun.github.io/gemini-chat-frontend-v2/)
 
 ## Design Process
 <img width="2144" alt="Design Process" src="https://github.com/user-attachments/assets/7c00bbf8-7ac8-4e2c-9060-c295db6139b6" />
