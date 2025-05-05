@@ -6,7 +6,42 @@ nav_order: 5
 
 # Evaluation
 
+## Evaluation Goals
+- Assess effectiveness in improving entrepreneurial skills
+- Evaluate AI-generated content support
+- Analyze user behavior for optimization
+
+## Evaluation Methods
+- Behavioral data tracking (e.g., completion rates, time-on-task)
+- Pre- and post-assessments
+- Self-reflection questionnaires
+- User interviews & feedback forms
+- Embedded module performance scoring
+
 ## Evaluation Plan
-VentureSeed is designed with ethical considerations. Bias and fairness are addressed by using diverse training datasets to ensure simulations reflect real-world variability, avoiding stereotypes in virtual character interactions (e.g., investors/customers). Privacy and transparency are prioritized, since user data is anonymized, and the tool clearly explains how decisions impact outcomes (e.g., why a negotiation succeeded/failed). To prevent overreliance on AI, the system emphasizes human agency—users receive feedback but retain control over choices. Plagiarism risks are minimized by focusing on skill application (e.g., negotiation tactics) rather than content generation.
+
+**Part 1: Idea Analysis**
+- Completion of analysis elements
+- Frequency of AI assistant use
+- Time spent per section
+
+**Part 2: KPI & Risk Simulator**
+- Risk identification completeness
+- AI suggestion adoption rate
+
+**Part 3: KPI & Risk Simulator**
+- Number of dialogue turns
+- Response time & tone
+
+**Cross-Module Metrics**
+- Drop-off & retry rates
+- Learning pace
+
+**Data Sources**
+- Front-end tracking & logs
+- Backend analytics
+- Surveys & reflections
+
 ## Survey Questions
-aaaaa
+
+![question](https://github.com/user-attachments/assets/297dff98-9466-4bcd-a6c0-6be2aa23f797)
