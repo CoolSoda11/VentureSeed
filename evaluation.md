@@ -20,6 +20,8 @@ nav_order: 5
 
 ## Evaluation Plan
 
+[More about Evaluation Plan](https://docs.google.com/document/d/11FglWM_THr2kX4dQimJPMptWMpfk6k5fw4IqcZBJCho/edit?usp=sharing)
+
 **Part 1: Idea Analysis**
 - Completion of analysis elements
 - Frequency of AI assistant use
