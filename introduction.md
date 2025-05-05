@@ -42,7 +42,7 @@ Based on the student’s chosen business field, AI can facilitate immersive entr
 ![survey](https://github.com/user-attachments/assets/0dbcc0c0-4433-42b9-9204-8586063f2b2c)
 - **Motivation:** Target users are driven by self-actualization, seeking to fulfill personal goals and values through entrepreneurship.
 - **Challenges:** The main barriers are a lack of resources, management experience, and uncertainty about business opportunities.
-- **Learning Preferences:** Users prefer active, social, and immersive learning methods—group discussions, practical experiences, and simulations.
+- **Learning Preferences:** Users prefer active, social, and immersive learning methods—practical experiences and simulations.
 - **Needs:** Users seek both theoretical and practical knowledge, emphasizing peer interaction, expert guidance, and case-based learning.
 - **Desired Features:** Users value direct engagement with industry experts, interactive scenario analysis, and simulations focused on resource management.
 
