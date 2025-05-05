@@ -5,6 +5,9 @@ nav_order: 8
 ---
 
 # Future Work
+
+![Frame 23003](https://github.com/user-attachments/assets/ff147873-ae02-42e5-ac6e-b57b5d502613)
+
 1. **Design differentiated learning paths based on user skill levels:**
 Offer beginner-friendly resources like templates and walkthroughs, while providing advanced users with optional challenge tasks to sustain engagement and deepen learning.
 
