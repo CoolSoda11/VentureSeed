@@ -17,4 +17,4 @@ nav_order: 4
 ![Frame 23002](https://github.com/user-attachments/assets/d0983ae2-6f5b-4c85-97d2-46acffcbac5d)
 
 
-[VentureSeed Website](https://beining-sun.github.io/gemini-chat-frontend-v3-zhao/)
+[VentureSeed Website Application](https://beining-sun.github.io/gemini-chat-frontend-v3-zhao/)
