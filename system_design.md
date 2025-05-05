@@ -18,13 +18,13 @@ nav_order: 3
 
 <img width="1032" alt="Early prototype" src="https://github.com/user-attachments/assets/6a9e60d9-b914-4d29-b913-60db08af4162" />
 
-link to Figma: https://www.figma.com/proto/3t9PdL6eKVVJI1NrwCtC5o/First-Phase?page-id=266%3A5&node-id=280-396&p=f&viewport=45%2C97%2C0.05&t=1PI8uNrpNsvFvCK8-1&scaling=min-zoom&content-scaling=fixed&starting-point-node-id=280%3A396&show-proto-sidebar=1
+[link to Figma](https://www.figma.com/proto/3t9PdL6eKVVJI1NrwCtC5o/First-Phase?page-id=266%3A5&node-id=280-396&p=f&viewport=45%2C97%2C0.05&t=1PI8uNrpNsvFvCK8-1&scaling=min-zoom&content-scaling=fixed&starting-point-node-id=280%3A396&show-proto-sidebar=1)
 
-Part1: https://coolsoda11.github.io/monopoly/
+[Part1](https://coolsoda11.github.io/monopoly/)
 
-Part2: https://mmsxy.github.io/qinyu-lin/
+[Part2](https://mmsxy.github.io/qinyu-lin/)
 
-Part3: https://beining-sun.github.io/gemini-chat-frontend-v2/
+[Part3](https://beining-sun.github.io/gemini-chat-frontend-v2/)
 
 ## Design Process
 <img width="2144" alt="Design Process" src="https://github.com/user-attachments/assets/7c00bbf8-7ac8-4e2c-9060-c295db6139b6" />
