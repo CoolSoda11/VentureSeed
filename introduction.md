@@ -46,6 +46,11 @@ Based on the student’s chosen business field, AI can facilitate immersive entr
 - **Needs:** Users seek both theoretical and practical knowledge, emphasizing peer interaction, expert guidance, and case-based learning.
 - **Desired Features:** Users value direct engagement with industry experts, interactive scenario analysis, and simulations focused on resource management.
 
+## Learner Needs
+- Learners seek both theoretical and practical knowledge.
+- Learners lack of resources, management experience, and uncertainty about business opportunities.
+- Learners need expert guidance.
+
 ## Personas
 ![Persona111](https://github.com/user-attachments/assets/ebdddae8-e50f-4efd-8e35-45118b892526)
 
